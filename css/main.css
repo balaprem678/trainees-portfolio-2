@@ -86,31 +86,37 @@
     color: #9b8d8d;
 }
 .running{
-  display: flex;
   margin: 60px 0px;
 }
+.running1{
+  display: flex;
+}
+.run1{
+  background-color: black;
+}
 .run1 img{
-  width: 844px;
+  width: 650px;
+
   margin-left: -50px;
 }
 .run13{
   display: flex;
-  margin-left: -18px;
+  margin-left: 80px;
 }
 .run12{
   margin: 0px 100px 1px -50px;
 }
 .run12 p{
-  font-size: 80px;
-  line-height: 90.5px;
-  margin-left: 30px;
+  font-size: 23px;
+    line-height: 70px;
+    margin-left: 130px;
     margin-bottom: 30px;
+    margin-top: -12px;
 }
 .run12 h6{
     font-size: 30px;
-    margin: 20px 0 0 6px;
+    margin: 20px 0 0 30px;
     line-height: 30.5px;
-    margin-right: 100px;
 }
 .google, .search, .paid,
 .facebook, .instagram, .snapchat{
@@ -175,6 +181,12 @@
 .linkedit2 h6{
 
 }
+.link21{
+  display: flex;
+}
+.link22{
+  display: flex;
+}
 .link21 img{
   margin: 50px -117px 0px 143px;
     box-shadow: 0 30px 65px 0 rgb(25 25 25 / 27%);
@@ -203,104 +215,21 @@ h3{
   color: #fff;
 
 }
-.overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
-  opacity: 0;
-  transition: .5s ease;
-  background-color: #008CBA;
+.rate2{
+  display: block
 }
+.rate2 span{
+  display: flex;
+}
+.rate2 h6{
 
-.container:hover .overlay {
-  opacity: 1;
 }
-
-.text {
-  color: white;
-  font-size: 20px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  text-align: center;
-}.overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
-  opacity: 0;
-  transition: .5s ease;
-  background-color: #008CBA;
+.rate2 h5{
+  
 }
-
-.container:hover .overlay {
-  opacity: 1;
+.rate2 h4{
+  
 }
-
-.text {
-  color: white;
-  font-size: 20px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  text-align: center;
-}.overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
-  opacity: 0;
-  transition: .5s ease;
-  background-color: #008CBA;
-}
-
-.container:hover .overlay {
-  opacity: 1;
-}
-
-.text {
-  color: white;
-  font-size: 20px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  text-align: center;
-}
-.overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
-  opacity: 0;
-  transition: .5s ease;
-  background-color: #008CBA;
-}
-
-.:hover .overlay {
-  opacity: 1;
-}
-
-.text {
-  color: white;
-  font-size: 20px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  text-align: center;
-}
-.link22 img:hover{
+.rate2 h3{
   
 }
