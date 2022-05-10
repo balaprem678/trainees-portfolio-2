@@ -1,3 +1,6 @@
+.container{
+
+}
 .div1{
   margin: -26px -9px 0 -8px;
 }
@@ -183,9 +186,11 @@
 }
 .link21{
   display: flex;
+  justify-content: center;
 }
 .link22{
   display: flex;
+  justify-content: center;
 }
 .link21 img{
   margin: 50px -117px 0px 143px;
@@ -197,10 +202,7 @@
     box-shadow: 0 30px 65px 0 rgb(25 25 25 / 27%);
     width: 360px;
 }
-h3{
-  background-color: #2c1f39;
-  width: 100px;
-}
+
 .rate1 p{
   font-size: 65px;
     text-align: center;
@@ -215,21 +217,87 @@ h3{
   color: #fff;
 
 }
-.rate2{
-  display: block
-}
-.rate2 span{
+.amt{
   display: flex;
+  justify-content: center;
+}
+.rate{
+  text-align: center;
+}
+.rate123{
+  display: inline-flex;
+  margin: 60px 0px;
+}
+.rate2{
+  text-align: center;
+  margin: 0px 10px;
+}
+.rate21{
+  margin: 0px 35px;
+}
+.rate1234 h6{
+  color: orangered;
+}
+.rate12345 h6{
+  color: rgb(25, 29, 233);
+}
+.amt h6{
+  font-size: 44px;
+    margin: 30px 3px 29px 10px;
+}
+.amt h5{
+  font-size: 70px;
+    margin: 5px 0px 0px 5px;
+}
+.amt h4{
+  margin: 30px 0 0 2px;
+    font-size: 45px;
 }
 .rate2 h6{
+  margin: 30px 0px 0px 0px;
+    font-size: 40px;
+}
+.rate3 h6{
+  margin: 30px 0px 0px 0px;
+    font-size: 40px;
+}
+.rate2 h1, .rate3 h1{
+  font-size: 30px;
+}
+.rate2 p{
+  text-decoration: line-through;
+  font-size: 30px;
+}
+.rate3 h3{
+  margin: 53px 0px 0px 0px;
+}
+.rate3 p{
+  text-decoration: line-through;
+  font-size: 30px;
+}
+.rate2 h3,
+.rate3 h3{
+  font-size: 30px;
+}
+.rate2{
+  background-color: rgb(95, 124, 150);
+  padding: 10px 60px;
+  border-radius: 20px;
+}
+.rate3{
+  background-color: #c96a1d;
+  text-align: center;
+  padding: 10px 90px;
+  border-radius: 20px;
+  color: #ffffff;
+  margin: -50px 0;
+}
+.rate22{
+  margin: 0px 0px;
+}
+.order button{
+  font-size: 25px;
+    padding: 20px 30px;
+    border-radius: 50px;
+}
 
-}
-.rate2 h5{
-  
-}
-.rate2 h4{
-  
-}
-.rate2 h3{
-  
-}
