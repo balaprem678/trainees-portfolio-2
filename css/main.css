@@ -58,6 +58,9 @@
 .moniter{
   margin: 115px 0 33px 101px;
 }
+.moniter1{
+  display: flex;
+}
 .moni1{
   display: inline-block;
   margin-left: -200px;
